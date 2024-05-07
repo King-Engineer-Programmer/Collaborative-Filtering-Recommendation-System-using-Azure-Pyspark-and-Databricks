@@ -11,7 +11,6 @@ This project aims to develop a book recommendation system using Azure Data Lake,
 - Data preprocessing and analysis using PySpark on Azure Databricks
 - Training machine learning models for recommendation
 - Integration with Azure Data Factory for data pipelines
-- API endpoint for accessing recommendations
 
 ## Architecture
 
