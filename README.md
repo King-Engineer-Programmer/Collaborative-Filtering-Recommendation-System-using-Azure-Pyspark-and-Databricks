@@ -12,8 +12,6 @@ This project aims to develop a book recommendation system using Azure Data Lake,
 - Training machine learning models for recommendation
 - Integration with Azure Data Factory for data pipelines
 
-## Architecture
-
 
 
 ## Technologies Used
